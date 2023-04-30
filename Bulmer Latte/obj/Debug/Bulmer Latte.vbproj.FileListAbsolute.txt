@@ -1,0 +1,12 @@
+C:\Users\mdbul\source\repos\Bulmer Latte\bin\Debug\Bulmer Latte.exe.config
+C:\Users\mdbul\source\repos\Bulmer Latte\bin\Debug\Bulmer Latte.exe
+C:\Users\mdbul\source\repos\Bulmer Latte\bin\Debug\Bulmer Latte.pdb
+C:\Users\mdbul\source\repos\Bulmer Latte\bin\Debug\Bulmer Latte.xml
+C:\Users\mdbul\source\repos\Bulmer Latte\obj\Debug\Bulmer Latte.vbproj.AssemblyReference.cache
+C:\Users\mdbul\source\repos\Bulmer Latte\obj\Debug\Bulmer_Latte.Resources.resources
+C:\Users\mdbul\source\repos\Bulmer Latte\obj\Debug\Bulmer Latte.vbproj.GenerateResource.cache
+C:\Users\mdbul\source\repos\Bulmer Latte\obj\Debug\Bulmer Latte.vbproj.CoreCompileInputs.cache
+C:\Users\mdbul\source\repos\Bulmer Latte\obj\Debug\Bulmer Latte.exe
+C:\Users\mdbul\source\repos\Bulmer Latte\obj\Debug\Bulmer Latte.xml
+C:\Users\mdbul\source\repos\Bulmer Latte\obj\Debug\Bulmer Latte.pdb
+C:\Users\mdbul\source\repos\Bulmer Latte\obj\Debug\Bulmer_Latte.frmLatteSelection.resources
